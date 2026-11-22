@@ -1,0 +1,7 @@
+Projects/Major Projects/P01_TextSummerizer/
+__pycache__/
+*.pyc
+venv/
+.venv/
+.ipynb_checkpoints/
+.env
